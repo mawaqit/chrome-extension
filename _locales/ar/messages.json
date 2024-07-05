@@ -1,0 +1,23 @@
+{
+    "Fajr": {
+      "message": "الفجر",
+      "description": "اسم صلاة الفجر"
+    },
+    "Dhuhr": {
+      "message": "الظهر",
+      "description": "اسم صلاة الظهر"
+    },
+    "Asr": {
+      "message": "العصر",
+      "description": "اسم صلاة العصر"
+    },
+    "Maghrib": {
+      "message": "المغرب",
+      "description": "اسم صلاة المغرب"
+    },
+    "Isha": {
+      "message": "العشاء",
+      "description": "اسم صلاة العشاء"
+    }
+  }
+  

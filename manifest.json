@@ -1,0 +1,18 @@
+{
+    "name": "Prayer time Mawaqit",
+    "description": "Base Level Extension",
+    "version": "1.0",
+    "manifest_version": 3,
+    "default_locale": "en", 
+    "permissions": ["geolocation","storage","notifications","alarms"],
+    "background": {
+      "service_worker": "./dist/worker.bundle.js"
+    },
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "apple-icon-57x57.png"
+    },
+    "icons": {
+      "48": "apple-icon-57x57.png"
+    }
+  }

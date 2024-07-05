@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root  {
+    --background: 270 100% 100%;
+    --foreground: 270 5% 10%;
+    --card: 270 50% 100%;
+    --card-foreground: 270 5% 15%;
+    --popover: 270 100% 100%;
+    --popover-foreground: 270 100% 10%;
+    --primary: 270 100% 29%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 270 30% 90%;
+    --secondary-foreground: 0 0% 0%;
+    --muted: 232 30% 95%;
+    --muted-foreground: 270 5% 40%;
+    --accent: 232 30% 90%;
+    --accent-foreground: 270 5% 15%;
+    --destructive: 0 100% 50%;
+    --destructive-foreground: 270 5% 100%;
+    --border: 270 30% 82%;
+    --input: 270 30% 50%;
+    --ring: 270 100% 29%;
+    --radius: 1rem;
+  }
+  

@@ -1,0 +1,23 @@
+{
+    "Fajr": {
+      "message": "Fajr",
+      "description": "Nom de la prière du matin"
+    },
+    "Dhuhr": {
+      "message": "Dhuhr",
+      "description": "Nom de la prière du midi"
+    },
+    "Asr": {
+      "message": "Asr",
+      "description": "Nom de la prière de l'après-midi"
+    },
+    "Maghrib": {
+      "message": "Maghrib",
+      "description": "Nom de la prière du soir"
+    },
+    "Isha": {
+      "message": "Isha",
+      "description": "Nom de la prière de la nuit"
+    }
+  }
+  
